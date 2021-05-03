@@ -82,7 +82,7 @@ button.is-green{
   margin-right: 5rem;
 }
 .player__img{
-  width: 100%;
+  width: 75%;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -113,7 +113,7 @@ button.is-green{
 .playlist{
   list-style: none;
   height: 70%;
-  overflow: scroll;
+  overflow: auto;
   overflow-x: hidden;
 }
 .playlist__song{
